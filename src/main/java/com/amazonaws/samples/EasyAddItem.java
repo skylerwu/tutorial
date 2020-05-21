@@ -111,8 +111,8 @@ public class EasyAddItem {
 		
 		// Build the item
 		Item item = new Item()
-		    .withPrimaryKey("Restaurant", "Vintana's", "Food", "T-Bone Steak")
-		    .withNumber("Price", 30.00);
+		    .withPrimaryKey("Restaurant", "McDonald's", "Food", "French Fries")
+		    .withNumber("Price", 3.00);
 		    
 		    
 
